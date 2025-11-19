@@ -15,3 +15,5 @@ very dumb example
 
 title = "Alice's Life"
 date = 1970/01/01
+
+grid (css template a-like) + toml data
